@@ -30,6 +30,19 @@
 		"q": 100,
 		"rq": 75
 		},
+	"/assets/galaxy_bg.jpg": {
+		"ft": 16384,
+		"iS": 2479205,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/galaxy_bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-none",
+		"q": 100,
+		"rq": 75
+		},
 	"/assets/medals/Bronze.png": {
 		"ft": 32768,
 		"iS": 566231,
@@ -39,7 +52,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -52,7 +65,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -73,7 +86,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -86,7 +99,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -107,7 +120,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -120,7 +133,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -133,7 +146,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -146,7 +159,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -159,7 +172,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -172,7 +185,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -203,17 +216,52 @@
 		"oAP": "/Triple Threat.sketch",
 		"oF": 0
 		},
-	"/Triple Threat/Advertisements/Patreon/TT VS Boss -landrous.png": {
+	"/Triple Threat/Advertisements/TT_vs_Boss _06032021_landorus.png": {
 		"ft": 32768,
-		"iS": 6578292,
+		"iS": 6556892,
 		"oA": 0,
-		"oAP": "/Triple Threat/Advertisements/Patreon/TT VS Boss -landrous.png",
+		"oAP": "/Triple Threat/Advertisements/TT_vs_Boss _06032021_landorus.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"ou": "lpckwebp-photo",
+		"q": 100,
+		"rq": 75
+		},
+	"/Triple Threat/Advertisements/TT_vs_Boss _06032021_landorus.webp": {
+		"ft": 8388608,
+		"iS": 358512,
+		"oA": 0,
+		"oAP": "/Triple Threat/Advertisements/TT_vs_Boss _06032021_landorus.webp",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"ou": "lpckwebp-default",
+		"rq": 75
+		},
+	"/Triple Threat/Advertisements/TT_vs_Boss _06032021_landorus_genchat.png": {
+		"ft": 32768,
+		"iS": 6573829,
+		"oA": 0,
+		"oAP": "/Triple Threat/Advertisements/TT_vs_Boss _06032021_landorus_genchat.png",
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
+		"rq": 75
+		},
+	"/Triple Threat/Advertisements/TT_vs_Boss _06032021_landorus_genchat.webp": {
+		"ft": 8388608,
+		"iS": 359288,
+		"oA": 0,
+		"oAP": "/Triple Threat/Advertisements/TT_vs_Boss _06032021_landorus_genchat.webp",
+		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"ou": "lpckwebp-default",
 		"rq": 75
 		},
 	"/Triple Threat/Assets/Azelf/Azelfs_Emoji.png": {
@@ -225,7 +273,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -238,7 +286,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -251,7 +299,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -264,7 +312,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -277,7 +325,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -290,7 +338,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -303,7 +351,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -316,7 +364,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -329,7 +377,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -342,7 +390,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -355,7 +403,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -368,7 +416,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -381,7 +429,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -394,7 +442,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -407,7 +455,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		},
@@ -420,7 +468,7 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
-		"ou": "lpckwebp-none",
+		"ou": "lpckwebp-photo",
 		"q": 100,
 		"rq": 75
 		}
@@ -2346,7 +2394,7 @@
 		"autoOutputPathStyle": 0,
 		"optimizerType": 1,
 		"quality": 100,
-		"webpOptimizationPresetUUID": "lpckwebp-none",
+		"webpOptimizationPresetUUID": "lpckwebp-photo",
 		"webpRGBQuality": 75
 		},
 	"languageDefaultsPUG": {
