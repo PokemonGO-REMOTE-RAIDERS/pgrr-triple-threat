@@ -225,9 +225,9 @@
       "oIPL" : 1,
       "opt" : 1,
       "oT" : 1,
-      "ou" : "lpckwebp-photo",
+      "ou" : "lpckwebp-lossless",
       "q" : 100,
-      "rq" : 75
+      "rq" : 100
     },
     "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus_genchat.webp" : {
       "ft" : 8388608,
@@ -457,24 +457,89 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Scoreboard\/Team\/Master-Azelf.png" : {
+    "\/Triple Threat\/Scoreboard\/Team\/_MASTERS\/Master-Azelf.png" : {
       "ft" : 32768,
       "iS" : 6429500,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Master-Azelf.png",
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/_MASTERS\/Master-Azelf.png",
       "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-photo",
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Scoreboard\/Team\/Master-Mesprite.png" : {
+    "\/Triple Threat\/Scoreboard\/Team\/_MASTERS\/Master-Mesprite.png" : {
       "ft" : 32768,
       "iS" : 6466438,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Master-Mesprite.png",
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/_MASTERS\/Master-Mesprite.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-photo",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Scoreboard\/Team\/_MASTERS\/Master-Uxie.png" : {
+      "ft" : 32768,
+      "iS" : 6546582,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/_MASTERS\/Master-Uxie.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-photo",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Scoreboard\/Team\/_Rejected\/REJECTED - Mesprit - 030321.png" : {
+      "ft" : 32768,
+      "iS" : 1184065,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/_Rejected\/REJECTED - Mesprit - 030321.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-photo",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Scoreboard\/Team\/_Rejected\/REJECTED - Uxies - 030321.png" : {
+      "ft" : 32768,
+      "iS" : 111446,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/_Rejected\/REJECTED - Uxies - 030321.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-photo",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.png" : {
+      "ft" : 32768,
+      "iS" : 8244162,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-photo",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Scoreboard\/Team\/Mesprits - 030321.png" : {
+      "ft" : 32768,
+      "iS" : 8524676,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Mesprits - 030321.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -483,17 +548,39 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Scoreboard\/Team\/Master-Uxie.png" : {
-      "ft" : 32768,
-      "iS" : 6546582,
+    "\/Triple Threat\/Scoreboard\/Team\/Mesprits - 030321.webp" : {
+      "ft" : 8388608,
+      "iS" : 0,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Master-Uxie.png",
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Mesprits - 030321.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Triple Threat\/Scoreboard\/Team\/Uxies - 030321.png" : {
+      "ft" : 32768,
+      "iS" : 8596443,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Uxies - 030321.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-photo",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Scoreboard\/Team\/Uxies - 030321.webp" : {
+      "ft" : 8388608,
+      "iS" : 299466,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Uxies - 030321.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     }
   },
