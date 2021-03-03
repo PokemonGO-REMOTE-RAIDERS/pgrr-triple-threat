@@ -528,11 +528,22 @@
       "oA" : 0,
       "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.png",
       "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-photo",
       "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.webp" : {
+      "ft" : 8388608,
+      "iS" : 284034,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/Triple Threat\/Scoreboard\/Team\/Mesprits - 030321.png" : {
@@ -550,7 +561,7 @@
     },
     "\/Triple Threat\/Scoreboard\/Team\/Mesprits - 030321.webp" : {
       "ft" : 8388608,
-      "iS" : 0,
+      "iS" : 309990,
       "oA" : 0,
       "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Mesprits - 030321.webp",
       "oF" : 0,
