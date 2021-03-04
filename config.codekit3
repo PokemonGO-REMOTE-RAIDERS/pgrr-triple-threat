@@ -7,7 +7,7 @@
       "uuidString" : "7B915403-21FE-4685-B030-4A78046227F4"
     }
   ],
-  "creatorBuild" : "34018",
+  "creatorBuild" : "34081",
   "files" : {
     "\/.gitattributes" : {
       "cB" : 0,
@@ -431,11 +431,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Scoreboard\/Combined\/Masteruxie.png" : {
+    "\/Triple Threat\/Scoreboard\/Combined\/Numbers Master - 030321.png" : {
       "ft" : 32768,
-      "iS" : 6553289,
+      "iS" : 5786486,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Scoreboard\/Combined\/Masteruxie.png",
+      "oAP" : "\/Triple Threat\/Scoreboard\/Combined\/Numbers Master - 030321.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -444,17 +444,15 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Scoreboard\/Combined\/Numbers Master.png" : {
-      "ft" : 32768,
-      "iS" : 4969115,
+    "\/Triple Threat\/Scoreboard\/Combined\/Numbers Master - 030321.webp" : {
+      "ft" : 8388608,
+      "iS" : 272372,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Scoreboard\/Combined\/Numbers Master.png",
+      "oAP" : "\/Triple Threat\/Scoreboard\/Combined\/Numbers Master - 030321.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-photo",
-      "q" : 100,
+      "ou" : "lpckwebp-default",
       "rq" : 75
     },
     "\/Triple Threat\/Scoreboard\/Team\/_MASTERS\/Master-Azelf.png" : {
@@ -496,6 +494,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/Triple Threat\/Scoreboard\/Team\/_Rejected\/REJECTED - Azelf - 030321.png" : {
+      "ft" : 32768,
+      "iS" : 943707,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Scoreboard\/Team\/_Rejected\/REJECTED - Azelf - 030321.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-photo",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/Triple Threat\/Scoreboard\/Team\/_Rejected\/REJECTED - Mesprit - 030321.png" : {
       "ft" : 32768,
       "iS" : 1184065,
@@ -524,7 +535,7 @@
     },
     "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.png" : {
       "ft" : 32768,
-      "iS" : 8244162,
+      "iS" : 8391100,
       "oA" : 0,
       "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.png",
       "oF" : 0,
@@ -537,7 +548,7 @@
     },
     "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.webp" : {
       "ft" : 8388608,
-      "iS" : 284034,
+      "iS" : 337002,
       "oA" : 0,
       "oAP" : "\/Triple Threat\/Scoreboard\/Team\/Azelfs - 030321.webp",
       "oF" : 0,
@@ -2638,21 +2649,21 @@
 
       ],
       "contentEntries" : [
-        "!(node_modules)\/**\/*.html",
-        "!(node_modules)\/**\/*.htm",
-        "!(node_modules)\/**\/*.shtml",
-        "!(node_modules)\/**\/*.xhtml",
-        "!(node_modules)\/**\/*.php",
-        "!(node_modules)\/**\/*.js",
-        "!(node_modules)\/**\/*.ts",
-        "!(node_modules)\/**\/*.coffee",
-        "!(node_modules)\/**\/*.erb",
-        "!(node_modules)\/**\/*.pug",
-        "!(node_modules)\/**\/*.jade",
-        "!(node_modules)\/**\/*.slim",
-        "!(node_modules)\/**\/*.haml",
-        "!(node_modules)\/**\/*.md",
-        "!(node_modules)\/**\/*.kit"
+        "**\/*.html",
+        "**\/*.htm",
+        "**\/*.shtml",
+        "**\/*.xhtml",
+        "**\/*.php",
+        "**\/*.js",
+        "**\/*.ts",
+        "**\/*.coffee",
+        "**\/*.erb",
+        "**\/*.pug",
+        "**\/*.jade",
+        "**\/*.slim",
+        "**\/*.haml",
+        "**\/*.md",
+        "**\/*.kit"
       ],
       "removeFontFace" : 0,
       "removeKeyframes" : 0,
