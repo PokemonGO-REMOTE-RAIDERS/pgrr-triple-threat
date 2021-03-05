@@ -17,6 +17,17 @@
       "oAP" : "\/.gitattributes",
       "oF" : 0
     },
+    "\/assets\/bosses\/641-incarante-tornadus.webp" : {
+      "ft" : 8388608,
+      "iS" : 17168,
+      "oA" : 0,
+      "oAP" : "\/assets\/bosses\/641-incarante-tornadus.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
     "\/assets\/galaxy_bg.jpeg" : {
       "ft" : 16384,
       "iS" : 2503761,
