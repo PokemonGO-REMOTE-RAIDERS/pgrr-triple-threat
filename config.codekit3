@@ -227,11 +227,11 @@
       "oAP" : "\/Triple Threat.sketch",
       "oF" : 0
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus_genchat.png" : {
+    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus_genchat.png" : {
       "ft" : 32768,
       "iS" : 6573829,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus_genchat.png",
+      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus_genchat.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -240,22 +240,22 @@
       "q" : 100,
       "rq" : 100
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus_genchat.webp" : {
+    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus_genchat.webp" : {
       "ft" : 8388608,
       "iS" : 359288,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus_genchat.webp",
+      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus_genchat.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus.png" : {
+    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus.png" : {
       "ft" : 32768,
       "iS" : 6556892,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus.png",
+      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -264,11 +264,59 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus.webp" : {
+    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus.webp" : {
       "ft" : 8388608,
       "iS" : 358512,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _06032021_landorus.webp",
+      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian_genchat.png" : {
+      "ft" : 32768,
+      "iS" : 8267282,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian_genchat.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-photo",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian_genchat.webp" : {
+      "ft" : 8388608,
+      "iS" : 376720,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian_genchat.webp",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian.png" : {
+      "ft" : 32768,
+      "iS" : 8253960,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-photo",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian.webp" : {
+      "ft" : 8388608,
+      "iS" : 0,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
