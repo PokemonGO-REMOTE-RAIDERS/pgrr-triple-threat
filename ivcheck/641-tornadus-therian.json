@@ -1,0 +1,37 @@
+{
+  "fields": [
+    {
+      "name": "No Weather Boost - Level 20",
+      "value": "<:HUNDObadge:745876130460074095> : 1837\n**98%** : 1830 - 1832\n**96%** : 1822 - 1828\n**93%** : 1815 - 1823\n**91%** : 1808 - 1819\n\n**10/10/10** : 1756",
+      "inline": true
+    },
+    {
+      "name": "Weather Boosted - Level 25",
+      "value": "<:HUNDObadge:745876130460074095> : 2296\n**98%** : 2287 - 2291\n**96%** : 2278 - 2285\n**93%** : 2269 - 2279\n**91%** : 2260 - 2274\n\n**10/10/10** : 2196",
+      "inline": false
+    },
+    {
+      "name": "Accurate IV Checkers",
+      "value": "Tap here to find the exact IV for your Pokémon.\n[PokemonGO Hub on Therian Tornadus](https://db.pokemongohub.net/pokemon/641/iv-chart)\n\n**or download an IV checker app for your phone**\n[PokeGenie - iOS and Android](http://www.pokegenie.net/)\n[CalcyIV - Android Only](https://play.google.com/store/apps/details?id=tesmath.calcy&hl=en_US&gl=US)",
+      "inline": false
+    },
+    {
+      "name": "Disclaimer",
+      "value": "Actual IV's percentages vary depending upon stat distribution. \n\n*The IV's listed above are for non-powered up Pokémon and are generic ranges.  There are circumstances that a Pokémon's CP could be in those ranges and have a higher or lower IV percentage.*",
+      "inline": false
+    }
+  ],
+  "timestamp": "2021-03-30T05:26:00.000Z",
+  "title": "General IV Check - Therian Tornadus",
+  "thumbnail": {
+    "url": "https://db.pokemongohub.net/images/official/full/641_f2.webp"
+  },
+  "author": {
+    "name": "Pokémon GO Remote Raiders",
+    "icon_url": "https://raw.githubusercontent.com/PokemonGO-REMOTE-RAIDERS/pgrr-triple-threat/main/assets/pgrr-logo.png"
+  },
+  "color": 14520854,
+  "footer": {
+    "text": "Last Updated by @NHemps311"
+  }
+}

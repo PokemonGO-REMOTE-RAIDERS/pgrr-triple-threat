@@ -1,0 +1,37 @@
+{
+  "fields": [
+    {
+      "name": "No Weather Boost - Level 20",
+      "value": "<:HUNDObadge:745876130460074095> : 1911\n**98%** : 1904 - 1906\n**96%** : 1898 - 1902\n**93%** : 1891 - 1897\n**91%** : 1884 - 1892\n\n**10/10/10** : 1828",
+      "inline": true
+    },
+    {
+      "name": "Weather Boosted - Level 25",
+      "value": "<:HUNDObadge:745876130460074095> : 2389\n**98%** : 2381 - 2383\n**96%** : 2372 - 2377\n**93%** : 2364 - 2372\n**91%** : 2355 - 2366\n\n**10/10/10** : 2285",
+      "inline": false
+    },
+    {
+      "name": "Accurate IV Checkers",
+      "value": "Tap here to find the exact IV for your Pokémon.\n[PokemonGO Hub on Incarnate Thundurus](https://db.pokemongohub.net/pokemon/642/iv-chart?form=Incarnate)\n\n**or download an IV checker app for your phone**\n[PokeGenie - iOS and Android](http://www.pokegenie.net/)\n[CalcyIV - Android Only](https://play.google.com/store/apps/details?id=tesmath.calcy&hl=en_US&gl=US)",
+      "inline": false
+    },
+    {
+      "name": "Disclaimer",
+      "value": "Actual IV's percentages vary depending upon stat distribution. \n\n*The IV's listed above are for non-powered up Pokémon and are generic ranges.  There are circumstances that a Pokémon's CP could be in those ranges and have a higher or lower IV percentage.*",
+      "inline": false
+    }
+  ],
+  "title": "General IV Check - Incarnate Thundurus",
+  "thumbnail": {
+    "url": "https://db.pokemongohub.net/images/official/full/642.webp"
+  },
+  "author": {
+    "name": "Pokémon GO Remote Raiders",
+    "icon_url": "https://raw.githubusercontent.com/PokemonGO-REMOTE-RAIDERS/pgrr-triple-threat/main/assets/pgrr-logo.png"
+  },
+  "color": 14520854,
+  "timestamp": "2021-04-07T12:26:00.000Z",
+  "footer": {
+    "text": "Last Updated by @NHemps311"
+  }
+}
