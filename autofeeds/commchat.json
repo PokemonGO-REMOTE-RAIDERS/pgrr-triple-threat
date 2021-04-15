@@ -1,0 +1,31 @@
+{
+	"url": "https://patreon.com/pgrr",
+	"fields": [
+	  {
+	    "inline": true,
+	    "name": "**Team Uxies**",
+	    "value": "<@> (+ UTC)"
+	  },
+	  {
+	    "inline": true,
+	    "name": "**Team Mesprits**",
+	    "value": "<@>\n (+ UTC)"
+	  },
+	  {
+	    "inline": true,
+	    "name": "**Team Azelfs**",
+	    "value": "<@>\nPDT (- UTC)"
+	  }
+	],
+	"title": "Triple Threat Sign Ups are Active!",
+	"description": "This week our Lake Legends take on **BOSS**!\n\nTeams fill up fast, so **sign up for Patreon today** to claim your spot on a team. \n\nType **PatreonSignUp** in the chat or click the link below to learn more**\n\nhttps://patreon.com/pgrr\n\n\n**This week's hosts:**",
+	"image": {
+	  "url": ""
+	},
+	"author": {
+	  "name": "PokémonGO Remote Raiders",
+	  "url": "https://patreon.com/pgrr",
+	  "icon_url": "https://raw.githubusercontent.com/PokemonGO-REMOTE-RAIDERS/pgrr-triple-threat/main/assets/pgrr-logo.png"
+	},
+	"color": 15884446
+   }

@@ -1,0 +1,34 @@
+{
+	"fields": [
+	  {
+	    "inline": true,
+	    "name": "**Team Uxies**",
+	    "value": "<@>\n (+ UTC)"
+	  },
+	  {
+	    "inline": true,
+	    "name": "**Team Mesprits**",
+	    "value": "<@>\n  (+ UTC)"
+	  },
+	  {
+	    "inline": true,
+	    "name": "**Team Azelfs**",
+	    "value": "<@>\n (- UTC)"
+	  },
+	  {
+	    "inline": false,
+	    "name": "---",
+	    "value": "[Direct Link to React Roles](https://discord.com/channels/346403197700538369/815677295158362124/815681872624615445)"
+	  }
+	],
+	"title": "Triple Threat Sign Ups are Active!",
+	"description": "This week our Lake Legends take on **BOSS**!\n\nHead to <#815677295158362124> to sign up today!\n\n**This week's hosts:**",
+	"image": {
+	  "url": ""
+	},
+	"author": {
+	  "name": "PokémonGO Remote Raiders",
+	  "icon_url": "https://raw.githubusercontent.com/PokemonGO-REMOTE-RAIDERS/pgrr-triple-threat/main/assets/pgrr-logo.png"
+	},
+	"color": 16015520
+   }
