@@ -114,6 +114,19 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/assets\/modmail.jpg" : {
+      "ft" : 16384,
+      "iS" : 334451,
+      "jF" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/modmail.jpg",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/assets\/pgrr_logo_clean.psd" : {
       "cB" : 0,
       "ft" : 8192,
