@@ -271,6 +271,14 @@
       "oO" : 0,
       "oS" : 1
     },
+    "\/ivcheck\/645-landorus-therian.json" : {
+      "ft" : 524288,
+      "oA" : 1,
+      "oAP" : "\/ivcheck\/645-landorus-therian-min.json",
+      "oF" : 0,
+      "oO" : 0,
+      "oS" : 1
+    },
     "\/README.md" : {
       "cB" : 0,
       "cS" : 0,
@@ -342,6 +350,32 @@
       "iS" : 8464514,
       "oA" : 0,
       "oAP" : "\/Triple Threat\/Advertisements\/2021 04 14 - Patreon -TT_vs_Boss .png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/2021 04 28 - GenChat -TT_vs_Boss .png" : {
+      "ft" : 32768,
+      "iS" : 6774410,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/2021 04 28 - GenChat -TT_vs_Boss .png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/2021 04 28 - Patreon -TT_vs_Boss .png" : {
+      "ft" : 32768,
+      "iS" : 6792809,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/2021 04 28 - Patreon -TT_vs_Boss .png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,

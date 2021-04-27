@@ -1,0 +1,37 @@
+{
+  "fields": [
+    {
+      "name": "No Weather Boost - Level 20",
+      "value": "<:HUNDObadge:745876130460074095> : 2241\n**98%** : 2234 - 2236\n**96%** : 2226 - 2231\n**93%** : 2219 - 2226\n**91%** : 2211 - 2220\n\n**10/10/10** : 2151",
+      "inline": true
+    },
+    {
+      "name": "Weather Boosted - Level 25",
+      "value": "<:HUNDObadge:745876130460074095> : 2801\n**98%** : 2792 - 2795\n**96%** : 2783 - 2789\n**93%** : 2774 - 2782\n**91%** : 2765 - 2776\n\n**10/10/10** : 2688",
+      "inline": false
+    },
+    {
+      "name": "Accurate IV Checkers",
+      "value": "Tap here to find the exact IV for your Pokémon.\n[PokemonGO Hub on Therian Landorus](https://db.pokemongohub.net/pokemon/645/iv-chart?form=Therian)\n\n**or download an IV checker app for your phone**\n[PokeGenie - iOS and Android](http://www.pokegenie.net/)\n[CalcyIV - Android Only](https://play.google.com/store/apps/details?id=tesmath.calcy&hl=en_US&gl=US)",
+      "inline": false
+    },
+    {
+      "name": "Disclaimer",
+      "value": "Actual IV's percentages vary depending upon stat distribution. \n\n*The IV's listed above are for non-powered up Pokémon and are generic ranges.  There are circumstances that a Pokémon's CP could be in those ranges and have a higher or lower IV percentage.*",
+      "inline": false
+    }
+  ],
+  "timestamp": "2021-04-13T12:49:00.000Z",
+  "title": "General IV Check - Therian Landorus",
+  "thumbnail": {
+    "url": "https://db.pokemongohub.net/images/official/full/645_f2.webp"
+  },
+  "author": {
+    "name": "Pokémon GO Remote Raiders",
+    "icon_url": "https://raw.githubusercontent.com/PokemonGO-REMOTE-RAIDERS/pgrr-triple-threat/main/assets/pgrr-logo.png"
+  },
+  "color": 14520854,
+  "footer": {
+    "text": "Last Updated by @NHemps311"
+  }
+}
