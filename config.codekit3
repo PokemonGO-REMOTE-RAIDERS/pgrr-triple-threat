@@ -314,89 +314,11 @@
       "oAP" : "\/Triple Threat.sketch",
       "oF" : 0
     },
-    "\/Triple Threat\/Advertisements\/2021 03 31 - GenChat -TT_vs_Boss .png" : {
-      "ft" : 32768,
-      "iS" : 1967695,
-      "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/2021 03 31 - GenChat -TT_vs_Boss .png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Triple Threat\/Advertisements\/2021 03 31 - Patreon -TT_vs_Boss .png" : {
-      "ft" : 32768,
-      "iS" : 8460279,
-      "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/2021 03 31 - Patreon -TT_vs_Boss .png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Triple Threat\/Advertisements\/2021 04 14 - GenChat -TT_vs_Boss .png" : {
-      "ft" : 32768,
-      "iS" : 8451146,
-      "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/2021 04 14 - GenChat -TT_vs_Boss .png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Triple Threat\/Advertisements\/2021 04 14 - Patreon -TT_vs_Boss .png" : {
-      "ft" : 32768,
-      "iS" : 8464514,
-      "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/2021 04 14 - Patreon -TT_vs_Boss .png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Triple Threat\/Advertisements\/2021 04 28 - GenChat -TT_vs_Boss .png" : {
-      "ft" : 32768,
-      "iS" : 6774410,
-      "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/2021 04 28 - GenChat -TT_vs_Boss .png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Triple Threat\/Advertisements\/2021 04 28 - Patreon -TT_vs_Boss .png" : {
-      "ft" : 32768,
-      "iS" : 6792809,
-      "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/2021 04 28 - Patreon -TT_vs_Boss .png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus_genchat.png" : {
+    "\/Triple Threat\/Advertisements\/20210306_landorus_genchat.png" : {
       "ft" : 32768,
       "iS" : 6573829,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus_genchat.png",
+      "oAP" : "\/Triple Threat\/Advertisements\/20210306_landorus_genchat.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -405,22 +327,22 @@
       "q" : 100,
       "rq" : 100
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus_genchat.webp" : {
+    "\/Triple Threat\/Advertisements\/20210306_landorus_genchat.webp" : {
       "ft" : 8388608,
       "iS" : 359288,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus_genchat.webp",
+      "oAP" : "\/Triple Threat\/Advertisements\/20210306_landorus_genchat.webp",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus.png" : {
+    "\/Triple Threat\/Advertisements\/20210306_landorus.png" : {
       "ft" : 32768,
       "iS" : 6556892,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus.png",
+      "oAP" : "\/Triple Threat\/Advertisements\/20210306_landorus.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -429,22 +351,22 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus.webp" : {
+    "\/Triple Threat\/Advertisements\/20210306_landorus.webp" : {
       "ft" : 8388608,
       "iS" : 358512,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210306_landorus.webp",
+      "oAP" : "\/Triple Threat\/Advertisements\/20210306_landorus.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian_genchat.png" : {
+    "\/Triple Threat\/Advertisements\/20210317_thundurus_terian_genchat.png" : {
       "ft" : 32768,
       "iS" : 8267282,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian_genchat.png",
+      "oAP" : "\/Triple Threat\/Advertisements\/20210317_thundurus_terian_genchat.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -453,22 +375,22 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian_genchat.webp" : {
+    "\/Triple Threat\/Advertisements\/20210317_thundurus_terian_genchat.webp" : {
       "ft" : 8388608,
       "iS" : 376720,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian_genchat.webp",
+      "oAP" : "\/Triple Threat\/Advertisements\/20210317_thundurus_terian_genchat.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
       "rq" : 75
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian.png" : {
+    "\/Triple Threat\/Advertisements\/20210317_thundurus_terian.png" : {
       "ft" : 32768,
       "iS" : 8253960,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian.png",
+      "oAP" : "\/Triple Threat\/Advertisements\/20210317_thundurus_terian.png",
       "oF" : 0,
       "oIPL" : 1,
       "opt" : 1,
@@ -477,15 +399,119 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian.webp" : {
+    "\/Triple Threat\/Advertisements\/20210317_thundurus_terian.webp" : {
       "ft" : 8388608,
       "iS" : 376036,
       "oA" : 0,
-      "oAP" : "\/Triple Threat\/Advertisements\/TT_vs_Boss _20210317_thundurus_terian.webp",
+      "oAP" : "\/Triple Threat\/Advertisements\/20210317_thundurus_terian.webp",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
       "ou" : "lpckwebp-default",
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/20210331-GenChat-TT_vs_Boss.png" : {
+      "ft" : 32768,
+      "iS" : 1967695,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/20210331-GenChat-TT_vs_Boss.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/20210331-Patreon-TT_vs_Boss.png" : {
+      "ft" : 32768,
+      "iS" : 8460279,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/20210331-Patreon-TT_vs_Boss.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/20210414-GenChat-TT_vs_Boss.png" : {
+      "ft" : 32768,
+      "iS" : 8451146,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/20210414-GenChat-TT_vs_Boss.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/20210414-Patreon-TT_vs_Boss.png" : {
+      "ft" : 32768,
+      "iS" : 8464514,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/20210414-Patreon-TT_vs_Boss.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/20210428-GenChat-TT_vs_Boss.png" : {
+      "ft" : 32768,
+      "iS" : 1966115,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/20210428-GenChat-TT_vs_Boss.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/20210428-Patreon-TT_vs_Boss.png" : {
+      "ft" : 32768,
+      "iS" : 1985398,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/20210428-Patreon-TT_vs_Boss.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/20210519-GenChat-TT_vs_Boss.png" : {
+      "ft" : 32768,
+      "iS" : 8434426,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/20210519-GenChat-TT_vs_Boss.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/Triple Threat\/Advertisements\/20210519-Patreon-TT_vs_Boss.png" : {
+      "ft" : 32768,
+      "iS" : 8448203,
+      "oA" : 0,
+      "oAP" : "\/Triple Threat\/Advertisements\/20210519-Patreon-TT_vs_Boss.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
       "rq" : 75
     },
     "\/Triple Threat\/Assets\/Azelf\/Azelfs_Emoji.png" : {
